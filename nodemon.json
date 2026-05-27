@@ -1,0 +1,6 @@
+{
+  "watch": ["server"],
+  "ext": "js,json",
+  "ignore": ["data/**", "*.db", "*.db-journal", "*.db-wal", "*.db-shm"],
+  "delay": 200
+}
